@@ -38,7 +38,7 @@ Make sure Node.js (version 14 or higher) is running on your local machine
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/mealify.git
+git clone https://github.com/ousx9/mealify.git
 cd mealify
 ```
 2. Install dependencies
