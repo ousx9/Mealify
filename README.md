@@ -14,7 +14,7 @@ In this project, I developed a frontend web application, a comprehensive culinar
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://mealify-zeta-one.vercel.app/)
 
 ## Screenshots
 
